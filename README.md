@@ -15,10 +15,10 @@
   -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="10%" src="https://cn.bing.com/th?id=AMMS_a396d9332f02d00429d7c198a80270ab&w=110&h=110&c=7&rs=1&qlt=80&pcl=f9f9f9&cdv=1&dpr=1.35&pid=16.1"></code>
+  <code><img width="10%" src="https://simpleicons.org/icons/django.svg"></code>
   <br />
-  <code><img width="10%" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
+  <code><img width="10%" src="https://simpleicons.org/icons/spring.svg"></code>
+  <code><img width="10%" src="https://simpleicons.org/icons/tensorflow.svgg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
