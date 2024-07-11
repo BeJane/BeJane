@@ -1,12 +1,9 @@
-### Hi there，I'm Jane :sun:
+### Hi there，I'm Jingqi Wu
 
 
-
-
-| CSDN                                          |
-| --------------------------------------------- |
-| [点我直达](https://blog.csdn.net/qq_39753778) |
-
+### Paper
+#### [Industrial Anomaly Detection and Localization Using Weakly-Supervised Residual Transformers](https://arxiv.org/pdf/2306.03492v4.pdf)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/efficient-anomaly-detection-with-budget/anomaly-detection-on-mvtec-ad)](https://paperswithcode.com/sota/anomaly-detection-on-mvtec-ad?p=efficient-anomaly-detection-with-budget)
 ### Languages and Tools:
 
 <p>  
