@@ -1,9 +1,11 @@
 ### I'm Jingqi Wu. I'm looking for a PhD position.
 
 
-### Paper
-#### [Industrial Anomaly Detection and Localization Using Weakly-Supervised Residual Transformers](https://arxiv.org/pdf/2306.03492v4.pdf)
+### Papers
+#### [Industrial Anomaly Detection and Localization Using Weakly-Supervised Residual Transformers](https://arxiv.org/abs/2306.03492))
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/efficient-anomaly-detection-with-budget/anomaly-detection-on-mvtec-ad)](https://paperswithcode.com/sota/anomaly-detection-on-mvtec-ad?p=efficient-anomaly-detection-with-budget)
+
+### [Towards Efficient Pixel Labeling for Industrial Anomaly Detection and Localization](https://arxiv.org/abs/2407.03130)
 ### Languages and Tools:
 
 <p>  
