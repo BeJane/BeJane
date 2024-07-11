@@ -1,4 +1,4 @@
-### Hi there，I'm Jingqi Wu
+### I'm Jingqi Wu. I'm looking for a PhD position.
 
 
 ### Paper
