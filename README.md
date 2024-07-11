@@ -2,7 +2,7 @@
 
 
 ### Papers
-#### [Industrial Anomaly Detection and Localization Using Weakly-Supervised Residual Transformers](https://arxiv.org/abs/2306.03492))
+#### [Industrial Anomaly Detection and Localization Using Weakly-Supervised Residual Transformers](https://arxiv.org/abs/2306.03492)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/efficient-anomaly-detection-with-budget/anomaly-detection-on-mvtec-ad)](https://paperswithcode.com/sota/anomaly-detection-on-mvtec-ad?p=efficient-anomaly-detection-with-budget)
 
 #### [Towards Efficient Pixel Labeling for Industrial Anomaly Detection and Localization](https://arxiv.org/abs/2407.03130)
